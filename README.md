@@ -1,7 +1,8 @@
 # itphalcon
 CRUD Project on Phalcon 
-
-หน้าจอแรก
+หน้าแรก
+![screen shot 2558-07-25 at 10 10 42 am](https://cloud.githubusercontent.com/assets/544429/8887657/8ff3763c-32b5-11e5-9037-791018764b0d.png)
+หน้าจอแสดงรายการข้อมูลพนักงาน
 ![screen shot 2558-07-25 at 9 41 32 am](https://cloud.githubusercontent.com/assets/544429/8887602/9f4df3b6-32b3-11e5-81aa-113e09c28487.png)
 หน้าจอเพิ่ม แสดง Modal บนหน้าจอ
 ![screen shot 2558-07-25 at 9 42 11 am](https://cloud.githubusercontent.com/assets/544429/8887601/9f4da406-32b3-11e5-988f-20ab45338def.png)
